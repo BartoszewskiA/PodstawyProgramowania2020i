@@ -4,9 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Witaj Swiecie";
-    
-    // cout<<endl;
-    // system("pause");
+    cout << "Witaj Swiecie"<<endl;
+    system("pause");  //zatrzymanie systemu
     return 0;
 }
